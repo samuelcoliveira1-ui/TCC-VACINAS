@@ -1,0 +1,642 @@
+[
+  {
+    "grupo": "Gestante",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "Agendar ao\nsaber da\ngravidez",
+    "vacina": "hepatite B",
+    "dose": "3 doses (conforme\nhistórico vacinal)",
+    "descricao": "hepatite B, hepatite D",
+    "observacoes": null
+  },
+  {
+    "grupo": "Gestante",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "dT",
+    "dose": "3 doses (conforme\nhistórico vacinal)",
+    "descricao": "difteria, tétano",
+    "observacoes": null
+  },
+  {
+    "grupo": "Gestante",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "influenza\ntrivalente",
+    "dose": "1 dose por\ntemporada",
+    "descricao": "influenza (gripe)",
+    "observacoes": null
+  },
+  {
+    "grupo": "Gestante",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "covid-19",
+    "dose": "1 dose a cada\ngestação",
+    "descricao": "formas graves da covid-19\ne óbitos causados pelo vírus\nSARS-CoV-2",
+    "observacoes": null
+  },
+  {
+    "grupo": "Gestante",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "dTpa",
+    "dose": "1 dose a partir\nda 20ª semana\ngestacional, em\ncada gestação",
+    "descricao": "difteria, tétano,\ncoqueluche",
+    "observacoes": null
+  },
+  {
+    "grupo": "Gestante",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "febre amarela 1",
+    "dose": "1 dose, em casos\nexcepcionais, conforme\nhistórico vacinal",
+    "descricao": "febre amarela",
+    "observacoes": null
+  },
+  {
+    "grupo": "Gestante",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "vírus sincicial\nrespiratório (VVSR)",
+    "dose": "1 dose a partir da 28ª\nsemana gestacional, em\ncada gestação",
+    "descricao": "Bronquiolite, pneumonia e\noutras complicações na\ncriança, em seus primeiros 6\nmeses de vida; a\ngestante vacinada transfere\nanticorpos para o\nbebê",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": 0,
+    "idade_max": 0,
+    "idade_texto": "Ao nascer",
+    "vacina": "hepatite B",
+    "dose": "1 dose",
+    "descricao": "hepatite B, hepatide D",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "BCG",
+    "dose": "1 dose",
+    "descricao": "formas graves e\ndisseminadas da\ntuberculose e, também,\ncom efeito protetor\ncontra a hanseníase",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": 2,
+    "idade_max": null,
+    "idade_texto": "2 meses",
+    "vacina": "penta (DTP+\nHib+HB)",
+    "dose": "1ª dose",
+    "descricao": "difteria, tétano, coqueluche,\ninfecções pelo H. influenzae\ntipo b, hepatite B",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "poliomielite\ninativada VIP",
+    "dose": "1ª dose",
+    "descricao": "poliomielite (paralisia infantil)",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "pneumocócica\n10-valente",
+    "dose": "1ª dose",
+    "descricao": "doenças pneumocócicas\ninvasivas pelos sorogrupos\ncontidos na vacina",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "rotavírus humano",
+    "dose": "1ª dose",
+    "descricao": "gastrenterite viral\n(diarréia, vômito) 1",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": 3,
+    "idade_max": null,
+    "idade_texto": "3 meses",
+    "vacina": "meningocócica C",
+    "dose": "1ª dose",
+    "descricao": "doenças meningocócicas\n(meningite, encefalite,\nmeningoencefalite) pelo\nmeningococo tipo C",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": 4,
+    "idade_max": null,
+    "idade_texto": "4 meses",
+    "vacina": "penta (DTP+\nHib+HB)",
+    "dose": "2ª dose",
+    "descricao": "difteria, tétano, coqueluche,\ninfecções pelo H.\ninfluenzae tipo b,\nhepatite B",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "poliomielite\ninativada VIP",
+    "dose": "2ª dose",
+    "descricao": "poliomielite (paralisia infantil)",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "pneumocócica\n10-valente",
+    "dose": "2ª dose",
+    "descricao": "doenças pneumocócicas\ninvasivas pelos sorogrupos\ncontidos na vacina",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "rotavírus humano",
+    "dose": "2ª dose",
+    "descricao": "gastrenterite viral\n(diarréia, vômito) 1",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": 5,
+    "idade_max": null,
+    "idade_texto": "5 meses",
+    "vacina": "meningocócica C",
+    "dose": "2ª dose",
+    "descricao": "doenças meningocócicas\n(meningite, encefalite,\nmeningoencefalite) pelo\nmeningococo tipo C",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": 6,
+    "idade_max": null,
+    "idade_texto": "6 meses",
+    "vacina": "penta (DTP+\nHib+HB)",
+    "dose": "3ª dose",
+    "descricao": "difteria, tétano, coqueluche,\ninfecções pelo H.\ninfluenzae tipo b,\nhepatite B",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "poliomielite\ninativada VIP",
+    "dose": "3ª dose",
+    "descricao": "poliomielite (paralisia infantil)",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "influenza trivalente",
+    "dose": "1ª dose",
+    "descricao": "influenza (gripe) 2",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "covid-19",
+    "dose": "1ª dose",
+    "descricao": "formas graves da covid-19 e\nóbitos causados pelo vírus\nSARS-CoV-2 ³",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": 6,
+    "idade_max": 8,
+    "idade_texto": "6 a 8 meses",
+    "vacina": "febre amarela",
+    "dose": "1 dose, em casos\nexcepcionais",
+    "descricao": "febre amarela ⁴",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": 7,
+    "idade_max": null,
+    "idade_texto": "7 meses",
+    "vacina": "covid-19",
+    "dose": "2ª dose",
+    "descricao": "formas graves da covid-19 e\nóbitos causados pelo vírus\nSARS-CoV-2 ³",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": 9,
+    "idade_max": null,
+    "idade_texto": "9 meses",
+    "vacina": "covid-19",
+    "dose": "3ª dose",
+    "descricao": "formas graves da covid-19 e\nóbitos causados pelo vírus\nSARS-CoV-2 ³",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "febre amarela",
+    "dose": "1 dose",
+    "descricao": "febre amarela ⁴",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": 12,
+    "idade_max": null,
+    "idade_texto": "12 meses",
+    "vacina": "pneumocócica\n10-valente",
+    "dose": "1 dose de reforço",
+    "descricao": "doenças pneumocócicas\ninvasivas pelos sorogrupos\ncontidos na vacina",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "meningocócica\nACWY",
+    "dose": "1 dose",
+    "descricao": "doenças meningocócicas\n(meningite, encefalite,\nmeningoencefalite) por\nmeningococos do\ntipo A, C, W, Y",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "tríplice viral SCR",
+    "dose": "1ª dose",
+    "descricao": "sarampo, caxumba,\nrubéola, síndrome da\nrubéola congênita\n(futuramente, na gravidez)",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": 15,
+    "idade_max": null,
+    "idade_texto": "15 meses",
+    "vacina": "DTP",
+    "dose": "1ª dose reforço",
+    "descricao": "difteria, tétano, coqueluche",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "poliomielite\ninativada VIP",
+    "dose": "1 dose reforço",
+    "descricao": "poliomielite (paralisia infantil)",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "tríplice viral SCR",
+    "dose": "2ª dose",
+    "descricao": "sarampo, caxumba,\nrubéola e síndrome\nda rubéola congênita\n(futuramente, na gravidez)",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "varicela",
+    "dose": "1ª dose",
+    "descricao": "varicela (catapora) 5",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "hepatite A",
+    "dose": "1 dose",
+    "descricao": "hepatite A",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": 4,
+    "idade_max": null,
+    "idade_texto": "4 anos",
+    "vacina": "DTP",
+    "dose": "2ª dose reforço",
+    "descricao": "difteria, tétano, coqueluche 6",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "febre amarela",
+    "dose": "1 dose de reforço",
+    "descricao": "febre amarela ⁴",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "varicela",
+    "dose": "2ª dose",
+    "descricao": "varicela (catapora) 5",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": 5,
+    "idade_max": null,
+    "idade_texto": "5 anos\n(somente indígena,\nsem histórico vacinal\ncom pneumo\nconjugada)",
+    "vacina": "pneumocócica\n23-valente",
+    "dose": "1 dose",
+    "descricao": "doenças pneumocócicas\ninvasivas pelos sorogrupos\ncontidos na vacina 7",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": 7,
+    "idade_max": null,
+    "idade_texto": "A partir de 7\nanos\n(todas as idades)",
+    "vacina": "dT",
+    "dose": "3 doses (conforme histórico\nvacinal)",
+    "descricao": "difteria, tétano 8",
+    "observacoes": null
+  },
+  {
+    "grupo": "Criança",
+    "idade_min": 9,
+    "idade_max": 14,
+    "idade_texto": "9 a 14 anos",
+    "vacina": "HPV4",
+    "dose": "1 dose",
+    "descricao": "infecções causadas pelo\npapilomavírus humano 9",
+    "observacoes": null
+  },
+  {
+    "grupo": "Adolescente e Jovem",
+    "idade_min": 9,
+    "idade_max": 14,
+    "idade_texto": "9 a 14 anos",
+    "vacina": "HPV4",
+    "dose": "1 dose (conforme\nhistórico vacinal)",
+    "descricao": "infecções pelo\npapilomavírus humano ¹",
+    "observacoes": null
+  },
+  {
+    "grupo": "Adolescente e Jovem",
+    "idade_min": 10,
+    "idade_max": 14,
+    "idade_texto": "10 a 14 anos",
+    "vacina": "dengue\ntetravalente",
+    "dose": "2 doses (conforme\nhistórico vacinal)",
+    "descricao": "dengue pelo sorotipo\n1, 2, 3 e 4 2",
+    "observacoes": null
+  },
+  {
+    "grupo": "Adolescente e Jovem",
+    "idade_min": 11,
+    "idade_max": 14,
+    "idade_texto": "11 a 14 anos",
+    "vacina": "meningite\nmeningocócica\nACWY",
+    "dose": "1 dose",
+    "descricao": "doenças meningocócicas\n(meningite, encefalite,\nmeningoencefalite) pelo\nmeningococo do tipo A,\nC, W, Y",
+    "observacoes": null
+  },
+  {
+    "grupo": "Adolescente e Jovem",
+    "idade_min": 10,
+    "idade_max": 24,
+    "idade_texto": "10 a 24 anos",
+    "vacina": "hepatite B",
+    "dose": "3 doses (conforme\nhistórico vacinal)",
+    "descricao": "hepatite B, hepatite D",
+    "observacoes": null
+  },
+  {
+    "grupo": "Adolescente e Jovem",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "dT",
+    "dose": "3 doses (conforme\nhistórico vacinal)",
+    "descricao": "difteria, tétano 3",
+    "observacoes": null
+  },
+  {
+    "grupo": "Adolescente e Jovem",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "febre amarela",
+    "dose": "1 dose (conforme\nhistórico vacinal)",
+    "descricao": "febre amarela 4",
+    "observacoes": null
+  },
+  {
+    "grupo": "Adolescente e Jovem",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "tríplice\nviral SCR",
+    "dose": "2 doses (conforme\nhistórico vacinal)",
+    "descricao": "sarampo, caxumba, rubéola,\nsíndrome da rubéola\ncongênita (futuramente, na\ngravidez) 5",
+    "observacoes": null
+  },
+  {
+    "grupo": "Adolescente e Jovem",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "pneumocócica\n23 – valente",
+    "dose": "2 doses (somente\nindígena, sem histórico\nvacinal com pneumo\nconjugada)",
+    "descricao": "doenças pneumocócicas\ninvasivas pelos sorogrupos\ncontidos na vacina 6",
+    "observacoes": null
+  },
+  {
+    "grupo": "Adolescente e Jovem",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "varicela",
+    "dose": "2 doses (somente\nindígena e trabalhador\nde saúde, sem histórico\nda doença ou na dúvida e\nconforme histórico vacinal)",
+    "descricao": "varicela (catapora)",
+    "observacoes": null
+  },
+  {
+    "grupo": "Adulto",
+    "idade_min": 25,
+    "idade_max": 59,
+    "idade_texto": "25 a 59 anos",
+    "vacina": "hepatite B",
+    "dose": "3 doses (conforme\nhistórico vacinal)",
+    "descricao": "hepatite B, hepatite D",
+    "observacoes": null
+  },
+  {
+    "grupo": "Adulto",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "dT ¹",
+    "dose": "3 doses (conforme\nhistórico vacinal)",
+    "descricao": "difteria, tétano",
+    "observacoes": null
+  },
+  {
+    "grupo": "Adulto",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "febre amarela 2",
+    "dose": "1 dose (conforme\nhistórico vacinal)",
+    "descricao": "febre amarela",
+    "observacoes": null
+  },
+  {
+    "grupo": "Adulto",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "tríplice viral SCR 3",
+    "dose": "Conforme histórico vacinal\n• até 29 anos, 2 doses\n• entre 30 e 59\nanos, 1 dose\n• trabalhador de\nsaúde, 2 doses",
+    "descricao": "sarampo, caxumba,\nrubéola, síndrome da\nrubéola congênita\n(futuramente, na gravidez)",
+    "observacoes": null
+  },
+  {
+    "grupo": "Adulto",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "pneumocócica\n23-valente 4",
+    "dose": "2 doses (somente indígenas,\nsem histórico vacinal com\npneumo conjugada)",
+    "descricao": "doenças pneumocócicas\ninvasivas pelos sorogrupos\ncontidos na vacina",
+    "observacoes": null
+  },
+  {
+    "grupo": "Adulto",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "varicela",
+    "dose": "2 doses (somente\nindígenas e trabalhadores\nde saúde, sem histórico\nda doença ou na dúvida,\nconforme histórico vacinal)",
+    "descricao": "varicela (catapora)",
+    "observacoes": null
+  },
+  {
+    "grupo": "Idoso",
+    "idade_min": 60,
+    "idade_max": null,
+    "idade_texto": "A partir dos 60\nanos",
+    "vacina": "hepatite B",
+    "dose": "3 doses (conforme histórico\nvacinal)",
+    "descricao": "hepatite B, hepatite D",
+    "observacoes": null
+  },
+  {
+    "grupo": "Idoso",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "dT ¹",
+    "dose": "3 doses (conforme\nhistórico vacinal)",
+    "descricao": "difteria, tétano",
+    "observacoes": null
+  },
+  {
+    "grupo": "Idoso",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "febre amarela 2",
+    "dose": "1 dose, em casos\nexcepcionais\n(conforme histórico vacinal)",
+    "descricao": "febre amarela",
+    "observacoes": null
+  },
+  {
+    "grupo": "Idoso",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "tríplice viral SCR",
+    "dose": "2 doses (somente\ntrabalhadores de saúde,\nconforme histórico vacinal)",
+    "descricao": "sarampo, caxumba, rubéola",
+    "observacoes": null
+  },
+  {
+    "grupo": "Idoso",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "pneumocócica\n23-valente 3",
+    "dose": "2 doses (somente para\nidosos acamados e/ou\ninstitucionalizados, sem\nhistórico vacinal, e povos\nindígenas sem histórico\nvacinal com pneumocócica\nconjugada)",
+    "descricao": "doenças pneumocócicas",
+    "observacoes": null
+  },
+  {
+    "grupo": "Idoso",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "varicela",
+    "dose": "2 doses (somente povos\nindígenas e trabalhadores\nde saúde, que não tiveram\na doença ou na dúvida,\nconforme histórico vacinal)",
+    "descricao": "varicela (catapora)",
+    "observacoes": null
+  },
+  {
+    "grupo": "Idoso",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "influenza\ntrivalente",
+    "dose": "1 dose anual com a vacina\nda temporada",
+    "descricao": "influenza (gripe)",
+    "observacoes": null
+  },
+  {
+    "grupo": "Idoso",
+    "idade_min": null,
+    "idade_max": null,
+    "idade_texto": "",
+    "vacina": "covid-19",
+    "dose": "1 dose semestral",
+    "descricao": "formas graves da covid-19 e\nóbitos causados pelo vírus\nSARS-CoV-2",
+    "observacoes": null
+  }
+]

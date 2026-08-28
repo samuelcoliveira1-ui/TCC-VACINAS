@@ -6,7 +6,7 @@
 
 Assistente virtual para Telegram que informa vacinas recomendadas com base na faixa etária, mostra cobertura vacinal por região/estado/cidade e localiza as UBSs mais próximas do usuário.
 
-Projeto desenvolvido durante o **O ano de 2026** por estudantes do curso de **Desenvolvimento de Sistemas da ETEC São José dos Campos**.
+Projeto desenvolvido durante o **ano de 2026** por estudantes do curso de **Desenvolvimento de Sistemas da ETEC São José dos Campos**.
 
 O projeto segue a metodologia ágil **Scrum**, com foco em desenvolvimento colaborativo e organização de tarefas.
 

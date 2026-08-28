@@ -1,7 +1,7 @@
 # Aprendizado por Projeto Integrado (API) - Vacina Brasil Bot 💉
 
 <p align="center">
-  <img src="assets/img/assistente banner.jpg">
+  <img src="assets/img/banner.jpg">
 </p>
 
 Assistente virtual para Telegram que informa vacinas recomendadas com base na faixa etária, mostra cobertura vacinal por região/estado/cidade e localiza as UBSs mais próximas do usuário.

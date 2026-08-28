@@ -10,15 +10,9 @@ Projeto desenvolvido durante o **1º semestre de 2026** por estudantes do curso 
 
 O projeto segue a metodologia ágil **Scrum**, com foco em desenvolvimento colaborativo e organização de tarefas.
 
-## 🎥 Demonstração
-
-[![Vacina Brasil Bot - Demonstração](https://img.youtube.com/vi/wad36pTf6_Y/maxresdefault.jpg)](https://youtu.be/wad36pTf6_Y)
-
-> 🔗 [Clique para assistir no YouTube](https://youtu.be/wad36pTf6_Y)
 
 ## 📑 Índice
 
-* [🎥 Demonstração](#-demonstração)
 * [🎯 Objetivo do Projeto](#-objetivo-do-projeto)
 * [👥 Equipe](#-equipe)
 * [🎓 Orientadores](#-orientadores)

@@ -47,7 +47,6 @@ Não deve haver persistência dos dados através de bancos de dados.
 ## 🎓 Orientadores
 
 - Prof. Jean Carlos Lourenço Costa
-- Prof. Giuliano Araújo Bertoti
 
 ## 📋 Requisitos Não Funcionais
 

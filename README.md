@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - Vacina Brasil Bot 💉
+# Aprendizado por Projeto Integrado (API) - Assistente de Dados Públicos da Saúde para Vacinação💉
 
 <p align="center">
   <img src="assets/img/banner.jpg">
@@ -40,7 +40,7 @@ Não deve haver persistência dos dados através de bancos de dados.
 
 | Nome                   | Função        | LinkedIn & GitHub                                                                                              |
 | :--------------------- | :-----------: | :-----------------------------------------------------------------------------------------------------------: |
-| Davi  | Scrum Master | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/>]( ) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]( ) |
+| Davi de Paiva Cavalcanti de Lima | Scrum Master | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/>]( ) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]( ) |
 |  Lucas Turibio Alves  | Product Owner | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/>]( ) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Turibi) |
 |  Samuel da Costa Oliveira  |  Team Member / Dev  | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/>]( ) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/samuelcoliveira1-ui) |
 

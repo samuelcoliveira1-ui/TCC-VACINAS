@@ -134,7 +134,7 @@ VacinaBrasil-Bot/
 
 ### 1. Apresentação
 
-O bot de vacinação (`@vacinabrasil_bot`) é um assistente no Telegram que permite consultar rapidamente quais vacinas são recomendadas de acordo com a **faixa etária**, ver a **cobertura vacinal** por região, estado ou cidade, e localizar as **UBSs mais próximas** da sua localização.
+O bot de vacinação (`@assistente-vacinas_bot`) é um assistente no Telegram que permite consultar rapidamente quais vacinas são recomendadas de acordo com a **faixa etária**, ver a **cobertura vacinal** por região, estado ou cidade, e localizar as **UBSs mais próximas** da sua localização.
 
 A base de dados utilizada pelo bot é composta por arquivos JSON gerados a partir de calendários de vacinação disponibilizados como arquivos PDF pelo Ministério da Saúde em `https://www.gov.br/saude/pt-br/vacinacao/calendario`, além de dados de cobertura vacinal e do cadastro de UBSs do DATASUS.
 

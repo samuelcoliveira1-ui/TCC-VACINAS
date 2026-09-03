@@ -106,17 +106,9 @@ VacinaBrasil-Bot/
 │   │       └── ubs.csv
 │   └── utils/
 │       └── helpers.py                 — URLs dos PDFs oficiais por grupo vacinal e outras funções auxiliares
-├── MVP/
-│   ├── sp1.md
-│   ├── sp2.md
-│   └── sp3.md
 ├── assets/
 │   ├── img/
-│   │   ├── banner_vacina_brasil.png
-│   │   └── qrcode_vacinabrasil_bot.png
-│   └── video/
-│       ├── vacinabrasil_bot.mp4
-│       └── vacinabrasil_bot_mobile.mp4
+│   │   ├── banner.jpg
 └── requirements.txt
 ```
 
@@ -137,13 +129,6 @@ VacinaBrasil-Bot/
 | 11 | Alta | Como usuário, quero poder digitar perguntas de forma livre (ex: "quais vacinas pra idoso?") e ser compreendido pelo bot, sem precisar clicar em botões. | 3 |
 | 12 | Alta | Como usuário, quero informar meu endereço ou enviar minha localização para que o bot mostre o posto de saúde mais próximo. | 3 |
 
-## 📊 Registro das Sprints
-
-| Sprint            | Previsão   | Status         | Histórico |
-|-------------------|------------|----------------|-----------|
-| 01                | 05/04/2026 | Concluída ✅   | [MVP](MVP/sp1.md) |
-| 02                | 03/05/2026 | Concluída ✅   | [MVP](MVP/sp2.md) |
-| 03                | 31/05/2026 | Concluída ✅   | [MVP](MVP/sp3.md) |
 
 ## 📖 Manual do Usuário
 

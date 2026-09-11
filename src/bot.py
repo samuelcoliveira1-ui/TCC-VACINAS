@@ -3,7 +3,7 @@ import time
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 from datetime import timedelta
 
-TOKEN = "token aqui 
+TOKEN = "token aqui"
 bot = telebot.TeleBot(TOKEN)
 
 user_data = {}

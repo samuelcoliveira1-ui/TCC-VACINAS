@@ -619,9 +619,9 @@ def callback_handler(call):
             '<b>Assistente virtual para Telegram que informa vacinas recomendadas com base na faixa etária.</b>\n\n'
             'Projeto desenvolvido durante o 1º semestre de 2026 por estudantes do curso de Análise e Desenvolvimento de Sistemas da FATEC São José dos Campos.\n\n'
             '👥 <b>Equipe</b>\n\u200B \n'
-            '• Nicolas Fonseca Meira — Scrum Master\n'
-            '• Miguel Silva Gomes — Product Owner\n'
-            '• Gabriel Yudi Fujimoto — Scrum Team\n',
+            '• Davi de Paiva Cavalcanti de Lima - Scrum Master\n'
+            '• Lucas Turibio Alves - Product Owner\n'
+            '• Samuel da Costa Oliveira - Scrum Team\n',
             chat_id,
             call.message.message_id,
             markup

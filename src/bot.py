@@ -169,7 +169,7 @@ def menu(chat_id, user_id):
             bot.delete_message(chat_id, old_warning)
         except telebot.apihelper.ApiTelegramException:
             pass
-    msg = bot.send_message(chat_id, '<b>Bem-vindo(a) ao Vacina Brasil Bot 💉🇧🇷</b>\n<b>O que deseja consultar hoje?</b>\n\n<b>⚠️ ATENÇÃO:</b> este bot oferece apenas informações gerais e NÃO substitui a consulta a um profissional de saúde.', parse_mode='HTML', reply_markup=menu_principal())
+    msg = bot.send_message(chat_id, '<b>Bem-vindo(a) ao Assitente de Vacinas Brasil  💉🇧🇷</b>\n<b>O que deseja consultar hoje?</b>\n\n<b>⚠️ ATENÇÃO:</b> este bot oferece apenas informações gerais e NÃO substitui a consulta a um profissional de saúde.', parse_mode='HTML', reply_markup=menu_principal())
     data['menu_msg_id'] = msg.message_id
 
 

@@ -617,7 +617,7 @@ def callback_handler(call):
             'https://dadosabertos.saude.gov.br/dataset/unidades-basicas-de-saude-ubs/resource/264326aa-6aa2-4bc9-8dad-21f9aebe5e66\n\n'
             '👨\u200d💻 <b>Sobre o Bot</b>\n\u200B \n'
             '<b>Assistente virtual para Telegram que informa vacinas recomendadas com base na faixa etária.</b>\n\n'
-            'Projeto desenvolvido durante o 1º semestre de 2026 por estudantes do curso de Análise e Desenvolvimento de Sistemas da FATEC São José dos Campos.\n\n'
+            'Projeto desenvolvido durante o ano de 2026 por estudantes do curso de Desenvolvimento de Sistemas da ETEC São José dos Campos.\n\n'
             '👥 <b>Equipe</b>\n\u200B \n'
             '• Davi de Paiva Cavalcanti de Lima - Scrum Master\n'
             '• Lucas Turibio Alves - Product Owner\n'

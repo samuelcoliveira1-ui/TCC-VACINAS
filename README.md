@@ -347,8 +347,7 @@ Para executar o bot localmente é necessário:
 Abra um terminal e clone o repositório:
 
 ```bash
-git clone https://github.com/nexusdevapi/VacinaBrasil-Bot.git
-cd VacinaBrasil-Bot
+git clone https://github.com/samuelcoliveira1-ui/TCC-VACINAS.git
 ```
 
 Instale as dependências:
